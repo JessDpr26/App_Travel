@@ -12,7 +12,7 @@ namespace App_Travel.Droid
 	[Activity (Label = "App_Travel.Droid", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
-		int count = 3;
+		int count = 1;
 
 		protected override void OnCreate (Bundle bundle)
 		{
